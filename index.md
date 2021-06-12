@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Blog
+title: Welcome to jhyang Blog
 layout: blog
 ---
 
