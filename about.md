@@ -9,8 +9,4 @@ layout: page
 
 My Social Media Links
 
-[My Instagram](http://instagram.com/codingindian)
-
-[My Linkedin](http://linkedin.com/in/srsmaurya)
-
-[My Github](http://github.com/sharadcodes)
+[My Github](https://github.com/jhyang0223)
