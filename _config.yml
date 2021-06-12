@@ -5,8 +5,8 @@ baseurl: ""
 color_scheme: "yellow"
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Yang Jihyeok
+  email: flash3470@gmail.com
 
 plugins:
   - jekyll-paginate
